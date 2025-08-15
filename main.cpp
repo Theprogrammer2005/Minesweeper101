@@ -22,7 +22,7 @@ made between 8-Aug-25 and 14-Aug-25
 using namespace std;
 
 const int SIZE = 8;
-const char HIDDEN = '@';
+const char HIDDEN = ' ';
 const char BOMB = '*';
 
 // Directions for checking neighbors
